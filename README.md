@@ -89,7 +89,7 @@
 
 
 ## Email Providers
-
+'http://deepm3ujzs3tjiencf5d74psc6xvhcsh27b6hn5bznzee2w7tult3jad.onion/auth'
 - [DanWin's Email](http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion) - `http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion`
   - Free tor email provider
 - [Elude](http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion) - `http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion`
